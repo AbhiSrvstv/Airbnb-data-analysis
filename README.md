@@ -85,7 +85,7 @@ The average stay in an entire home is 8 nights and private rooms is around 5 to 
 ## 🚀 About Me
 
 
-- 👋 Hi, I’m Abhishek, a curious Data Dcientist
+- 👋 Hi, I’m Abhishek, a curious Data Scientist
 - 👀 I’m currently working on Machine Learning projects.
 - 🌱 I’m currently learning various machine learning models and deep learning techniques.
 - 💞️ I’m would love to collaborate on Machine Learning projects.
