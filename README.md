@@ -82,3 +82,14 @@ Shared rooms have the most availability, probably because people prefer their pr
 
 The average stay in an entire home is 8 nights and private rooms is around 5 to 6 nights.
 
+## 🚀 About Me
+
+
+- 👋 Hi, I’m Abhishek, a curious Data Dcientist
+- 👀 I’m currently working on Machine Learning projects.
+- 🌱 I’m currently learning various machine learning models and deep learning techniques.
+- 💞️ I’m would love to collaborate on Machine Learning projects.
+- 📫 How to reach me : abhishekanand3120@gmail.com
+- 👀 LinkedIn : https://www.linkedin.com/in/abhshkannd/
+
+
